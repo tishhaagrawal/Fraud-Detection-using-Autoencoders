@@ -16,7 +16,7 @@ Two different architectures were compared to evaluate performance:
 * **Second Autoencoder**: A deeper model featuring two encoding layers (14 and 10 units) and two decoding layers.
 
 
-[Image of Autoencoder architecture]
+<img width="600" height="329" alt="autoencoder" src="https://github.com/user-attachments/assets/83d5bc10-e801-4cc5-89c2-f23db5c36713" />
 
 
 ### 3. Fraud Detection Mechanism
